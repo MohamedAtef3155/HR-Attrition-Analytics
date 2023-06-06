@@ -7,7 +7,7 @@
 # Summary
 ![1](https://github.com/MohamedAtef3155/HR-Attrition-Analytics/assets/126327548/337b1a6c-4d40-442b-9a59-9e47f45d198e)
 
-# Steps
+# Steps (check generating random names queries) file
 ![2](https://github.com/MohamedAtef3155/HR-Attrition-Analytics/assets/126327548/0a99f2ca-f6fe-4f95-9c3b-fb24ee0e898c)
 
 # Measures

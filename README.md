@@ -1,4 +1,4 @@
-# HR-Attrition-Analytics
+# HR Attrition Analytics
 
 # You can use the web icon to go to the source on kaggle.com
 ![0go to data](https://github.com/MohamedAtef3155/HR-Attrition-Analytics/assets/126327548/bbbafcb2-9595-4f75-9f49-2a5ed2666076)
